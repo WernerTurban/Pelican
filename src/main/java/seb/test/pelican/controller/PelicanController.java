@@ -11,8 +11,6 @@ import seb.test.pelican.exception.TranslationNotFoundException;
 import seb.test.pelican.model.Translation;
 import seb.test.pelican.service.PelicanService;
 
-import java.security.InvalidParameterException;
-
 @RestController
 @CrossOrigin
 public class PelicanController {
